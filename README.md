@@ -1,5 +1,4 @@
 
-```markdown
 # 🌐 Lifecycle Company Profile
 
 Website statis bertema **modern minimalis** untuk company profile bernama **Lifecycle**.  
@@ -34,7 +33,6 @@ lifecycle/
 ## 🚀 Deploy ke GitHub Pages
 
 1. Buat repository baru di GitHub, misalnya:
-```
 
 lifecycle.github.io
 
@@ -50,11 +48,3 @@ Settings → Pages → Build and deployment → Source → Deploy from branch
 5. Folder: `/ (root)`
 6. Klik **Save**
 
-## 🧩 Lisensi
-
-Proyek ini bersifat **open source** dan dapat digunakan untuk keperluan pribadi atau pendidikan tanpa izin khusus.
-
----
-
-Dibuat dengan ❤️ oleh [Lifecycle Team](#)  
-© 2025 Lifecycle. All rights reserved.
