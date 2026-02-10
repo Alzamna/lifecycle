@@ -33,14 +33,14 @@ lifecycle/
 ## 🚀 Deploy ke GitHub Pages
 
 1. Buat repository baru di GitHub, misalnya:
-
+```
 lifecycle.github.io
 
 ```
 2. Upload semua file ke repository tersebut (pastikan file `index.html` ada di root).
 3. Pergi ke:
-```
 
+```
 Settings → Pages → Build and deployment → Source → Deploy from branch
 
 ```
